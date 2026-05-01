@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.25.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1">
+      <Text Id="__SingleUse_OGHR" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+      <Text Id="ResourceId4" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+      <Text Id="ResourceId3" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+      <Text Id="ResourceId2" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+      <Text Id="ResourceId1" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Durum: &lt;state&gt;</Translation>
+      </Text>
+    </TextGroup>
+    <TextGroup Id="Unsorted">
+      <Text Id="button_selected" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">SECILDI</Translation>
+      </Text>
+      <Text Id="__SingleUse_FPUY" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">SEÇİLDİ</Translation>
+      </Text>
+      <Text Id="button_normal" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">NORMAL</Translation>
+      </Text>
+      <Text Id="__SingleUse_FXMD" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_36Y2" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">textttt</Translation>
+      </Text>
+      <Text Id="__SingleUse_J2S6" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">AÇIK</Translation>
+      </Text>
+      <Text Id="__SingleUse_DP4M" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">KAPALI</Translation>
+      </Text>
+      <Text Id="__SingleUse_6T0R" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">EV ALARM &#10;  SİSTEMİ</Translation>
+      </Text>
+      <Text Id="__SingleUse_WZP5" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">AÇIK</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZRS3" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">KAPALI</Translation>
+      </Text>
+      <Text Id="__SingleUse_MZA9" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">SES TAKİP &#10;  SİSTEMİ</Translation>
+      </Text>
+      <Text Id="__SingleUse_KCZ2" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">AÇIK</Translation>
+      </Text>
+      <Text Id="__SingleUse_L6EY" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">KAPALI</Translation>
+      </Text>
+      <Text Id="__SingleUse_MMPF" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">ACİL DURUM &#10;     MODU</Translation>
+      </Text>
+      <Text Id="__SingleUse_XWCI" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">OTOMATİK AÇMA &#10;           AÇIK</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZK9R" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">OTOMATİK AÇMA &#10;        KAPALI</Translation>
+      </Text>
+      <Text Id="__SingleUse_AYOX" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">GARAJ KAPISI &#10;       AÇIK</Translation>
+      </Text>
+      <Text Id="__SingleUse_R37N" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">GARAJ KAPISI &#10;     KAPALI</Translation>
+      </Text>
+      <Text Id="__SingleUse_JKKQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">GARAJ KAPISI</Translation>
+      </Text>
+      <Text Id="__SingleUse_GHVP" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">HAREKET ALGILAMA&#10;          SENSÖRÜ&#10;              AÇIK</Translation>
+      </Text>
+      <Text Id="__SingleUse_P6CO" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">HAREKET ALGILAMA&#10;          SENSÖRÜ&#10;            KAPALI</Translation>
+      </Text>
+      <Text Id="__SingleUse_39TR" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">ZİL DURUMU&#10;&#10;       AÇIK</Translation>
+      </Text>
+      <Text Id="__SingleUse_GN3W" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">ZİL DURUMU&#10;&#10;    KAPALI</Translation>
+      </Text>
+      <Text Id="__SingleUse_BZP9" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">KAPI DURUMU&#10;&#10;         AÇIK</Translation>
+      </Text>
+      <Text Id="__SingleUse_5RUR" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">KAPI DURUMU&#10;&#10;      KAPALI</Translation>
+      </Text>
+      <Text Id="__SingleUse_FU62" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">AYARLAR</Translation>
+      </Text>
+      <Text Id="__SingleUse_O49X" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;-  GERİ</Translation>
+      </Text>
+      <Text Id="__SingleUse_4S04" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">KAPI SİSTEMİ KONTROLÜ</Translation>
+      </Text>
+      <Text Id="__SingleUse_PWJV" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;-  GERİ</Translation>
+      </Text>
+      <Text Id="__SingleUse_4WT5" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">GÜVENLİK SİSTEMİ</Translation>
+      </Text>
+      <Text Id="__SingleUse_JGZE" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;-  GERİ</Translation>
+      </Text>
+      <Text Id="__SingleUse_UMUI" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;-  GERİ</Translation>
+      </Text>
+      <Text Id="__SingleUse_0OIX" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">BANYO</Translation>
+      </Text>
+      <Text Id="__SingleUse_H5U9" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">MUTFAK</Translation>
+      </Text>
+      <Text Id="__SingleUse_EI3N" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">KORİDOR</Translation>
+      </Text>
+      <Text Id="__SingleUse_38P7" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">OTURMA ODASI&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_NY0I" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">ÇOCUK ODASI&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_U8VG" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">YATAK ODASI</Translation>
+      </Text>
+      <Text Id="__SingleUse_SDDE" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">AYDINLATMA SİSTEMİ</Translation>
+      </Text>
+      <Text Id="__SingleUse_BRNW" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Sıcaklık: 24°C </Translation>
+      </Text>
+      <Text Id="__SingleUse_GNGX" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Saat: 14:30</Translation>
+      </Text>
+      <Text Id="__SingleUse_4P51" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">9 Ağustos 2025</Translation>
+      </Text>
+      <Text Id="__SingleUse_QCM5" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">GÜVENLİK &#10;  SİSTEMİ</Translation>
+      </Text>
+      <Text Id="__SingleUse_1HP2" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">AYDINLATMA&#10;     SİSTEMİ</Translation>
+      </Text>
+      <Text Id="__SingleUse_LACA" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">  KAPI&#10;SİSTEMİ</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZE33" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">AYARLAR</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="segoeuib.ttf" Size="11" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="segoeuib.ttf" Size="14" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>
